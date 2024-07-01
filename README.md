@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-Hello there! 👋 I'm Ayesha, a soon to be B.Sc. Graduate at the Department of Computer Science and Engineering at <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. 
+Hello there! 👋 I'm Ayesha, a freshly baked B.Sc.Engg. Graduate at the Department of Computer Science and Engineering at <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. 
 
 
 - :telescope: My primary research interests are Computer Security and Privacy, leveraging Natural Language Processing Techniques.
