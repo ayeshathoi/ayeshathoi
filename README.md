@@ -26,7 +26,7 @@ Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a hr
 - :telescope:  My primary research interests lie at the intersection of Robotics, Deep RL & Computer vision. I am also interested in Systems Security.
 - 🔖 All of my undergraduate lab courseworks are thoroughly documented on my [ugrad-lab-coursework](https://ayeshathoi.github.io/ugrad.html) page. However, please note that some of the linked repositories are private.
   
-- :seedling: Apart from academic activities, I have always been passionate about music. I can play 3 types of instruments. For fun, I love to develop games and doodle.
+- :seedling: Currently I am learning about RL projects. 
 
 - :mailbox: How to reach me: ayeshaathoi62@gmail.com
 
