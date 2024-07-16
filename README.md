@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-Hello there! 👋 I'm Ayesha, a freshly baked B.Sc. Graduate at the Department of Computer Science and Engineering, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. 
+Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. Currently, I am working as a full-time lecturer in the department of CSE, <a href="https://www.cub.edu.bd/">Canadian University of Bangladesh</a>.
 
 
 - :telescope:  My primary research interests lie at the intersection of System Security and Multi-modal Machine Learning. 
