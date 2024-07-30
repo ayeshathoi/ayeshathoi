@@ -20,10 +20,9 @@
 
 ### :woman_technologist: About Me :
 
-Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. Currently, I am working as a full-time lecturer in the department of CSE, <a href="https://www.cub.edu.bd/">Canadian University of Bangladesh</a>.
+Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. 
 
-
-- :telescope:  My research interests include Systems and Network Security, Natural Language Processing, Robotics, Computer Vision, Deep Reinforcement Learning, Human Computer Interaction.
+- :telescope:  Currently, I am working as a full-time lecturer in the department of CSE, <a href="https://www.cub.edu.bd/">Canadian University of Bangladesh</a>.
 - 🔖 All of my undergraduate lab courseworks are thoroughly documented on my [ugrad-lab-coursework](https://ayeshathoi.github.io/ugrad.html) page. However, please note that some of the linked repositories are private.
   
 - :seedling: Currently, I am learning about autonomous RL (Reinforcement Learning) projects.
