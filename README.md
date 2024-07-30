@@ -30,9 +30,9 @@ Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a hr
   
 - 🔍 Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
   
-- :mailbox: How to reach me: ayeshaathoi62@gmail.com
-
 - ⛹️‍♀️ Open for collaboration on suitable CS Research.
+  
+- :mailbox: How to reach me: ayeshaathoi62@gmail.com
 
 Let's learn and grow together! 
 
