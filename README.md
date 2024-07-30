@@ -22,13 +22,13 @@
 
 Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>.
   
-- Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
-
 - :telescope:  Currently, Working on a couple of research projects covering Machine Learning, Computer Security, Natural Language Processing and Software Engineering.
   
 - :seedling: I am learning about autonomous RL (Reinforcement Learning) projects.
   
 - 🔖 All of my undergraduate lab courseworks are thoroughly documented on my [ugrad-lab-coursework](https://ayeshathoi.github.io/ugrad.html) page. However, please note that some of the linked repositories are private.
+  
+- 🔍 Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
   
 - :mailbox: How to reach me: ayeshaathoi62@gmail.com
 
