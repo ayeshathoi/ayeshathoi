@@ -20,18 +20,21 @@
 
 ### :woman_technologist: About Me :
 
-Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. 
+Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>.
+  
+- Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
 
-- :telescope:  Currently, I am working as a full-time lecturer in the department of CSE, <a href="https://www.cub.edu.bd/">Canadian University of Bangladesh</a>.
+- :telescope:  Currently, Working on a couple of research projects covering Machine Learning, Computer Security, Natural Language Processing and Software Engineering.
+  
+- :seedling: I am learning about autonomous RL (Reinforcement Learning) projects.
+  
 - 🔖 All of my undergraduate lab courseworks are thoroughly documented on my [ugrad-lab-coursework](https://ayeshathoi.github.io/ugrad.html) page. However, please note that some of the linked repositories are private.
   
-- :seedling: Currently, I am learning about autonomous RL (Reinforcement Learning) projects.
-
 - :mailbox: How to reach me: ayeshaathoi62@gmail.com
 
-If you share similar interests or would like to to connect, don't hesitate to reach out. Let's learn and grow together!
+- ⛹️‍♀️ Open for collaboration on suitable CS Research.
 
-Happy coding! 😊
+Let's learn and grow together! 
 
 
 ---
