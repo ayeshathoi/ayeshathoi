@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>.
+Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. Currently, I am working as a full-time lecturer in the department of CSE, Canadian University of Bangladesh. 
   
 - :telescope:  Currently, Working on a couple of research projects covering Machine Learning, Computer Security, Natural Language Processing and Software Engineering.
   
