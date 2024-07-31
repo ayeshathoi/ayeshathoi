@@ -22,7 +22,7 @@
 
 Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. Currently, I am working as a full-time lecturer in the department of CSE, Canadian University of Bangladesh. 
   
-- :telescope:  Currently, Working on a couple of research projects covering Machine Learning, Computer Security, Natural Language Processing and Software Engineering.
+- :telescope: Working on a couple of research projects covering Machine Learning, Computer Security, Natural Language Processing and Software Engineering.
   
 - :seedling: I am learning about autonomous RL (Reinforcement Learning) projects.
   
@@ -30,7 +30,7 @@ Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a hr
   
 - 🔍 Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
   
-- ⛹️‍♀️ Open for collaboration on suitable CS Research.
+- ⛹️‍♀️ Open for collaboration on suitable CS Research. 
   
 - :mailbox: How to reach me: ayeshaathoi62@gmail.com
 
