@@ -1,23 +1,3 @@
-<div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" 
-  height="220px" width="40%" alt="Header"/>
-  <div id="badges">
-    <a href="https://ayeshathoi.github.io/">
-      <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=web&logoColor=white" alt="Web Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ayesha-binte-mostofa/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCLj24fWiGPJxcV11Vq8fH4g">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </div>
-    <img src="https://komarev.com/ghpvc/?username=ayeshathoi&style=flat-square&color=blue" alt=""/>
-  
-</div>
-
----
-
 ### :woman_technologist: About Me :
 
 Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. Currently, I am working as a full-time lecturer in the department of CSE, Canadian University of Bangladesh. 
