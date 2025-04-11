@@ -32,6 +32,8 @@ Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a hr
 
 </div>
 
+---
+
 ### :fire: My Stats :
 
 <div align="center">
