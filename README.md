@@ -3,15 +3,11 @@
 
 Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. Currently, I am working as a full-time lecturer in the department of CSE, Presidency University. 
   
-- :telescope: Working on a couple of research projects covering Machine Learning, Computer Security, Natural Language Processing and Software Engineering.
-  
-- :seedling: I am learning about autonomous RL (Reinforcement Learning) projects.
+- :telescope: Working on a couple of research projects covering Machine Learning, Security, Natural Language Processing and Software Engineering.
   
 - 🔖 All of my undergraduate lab courseworks are thoroughly documented on my [ugrad-lab-coursework](https://ayeshathoi.github.io/ugrad.html) page. However, please note that some of the linked repositories are private.
   
 - 🔍 Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
-  
-- ⛹️‍♀️ Open for collaboration on suitable CS Research. 
   
 - :mailbox: How to reach me: ayeshaathoi62@gmail.com
 
@@ -35,12 +31,6 @@ Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a hr
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
 </div>
-
----
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ayesha-binte-mostofa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabiha-tasneem" height="30" width="40" /></a>
-</p>
 
 ### :fire: My Stats :
 
