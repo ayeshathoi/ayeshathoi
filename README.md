@@ -1,4 +1,5 @@
 ### :woman_technologist: About Me :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshathoi&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshathoi"/> </p>
 
 Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. Currently, I am working as a full-time lecturer in the department of CSE, Presidency University. 
   
@@ -13,9 +14,6 @@ Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a hr
 - ⛹️‍♀️ Open for collaboration on suitable CS Research. 
   
 - :mailbox: How to reach me: ayeshaathoi62@gmail.com
-
-Let's learn and grow together! 
-
 
 ---
 
@@ -39,6 +37,10 @@ Let's learn and grow together!
 </div>
 
 ---
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ayesha-binte-mostofa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabiha-tasneem" height="30" width="40" /></a>
+</p>
 
 ### :fire: My Stats :
 
