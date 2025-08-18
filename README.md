@@ -1,7 +1,7 @@
 ### :woman_technologist: About Me :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshathoi&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshathoi"/> </p>
 
-Hello there! 👋 I'm Ayesha, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. Currently, I am working as a full-time lecturer in the department of CSE, Presidency University. 
+I am Ayesha, a first-year Ph.D. student at the **[University of Massachusetts, Amherst (UMass Amherst)](https://www.cics.umass.edu/)**. I am advised by **Dr. Pubali Datta**. I completed my Bachelor of Science in Computer Science and Engineering (CSE) at **[Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/)**. Prior to beginning my doctoral studies, I served as a full-time lecturer in the Department of CSE at **Presidency University, Bangladesh**. Before that, I held the same position in the Department of CSE at the **Canadian University of Bangladesh**.
   
 - :telescope: Working on a couple of research projects covering Machine Learning, Security, Natural Language Processing and Software Engineering.
   
