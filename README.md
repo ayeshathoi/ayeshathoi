@@ -3,7 +3,7 @@
 
 I am Ayesha, a first-year Ph.D. student at the department of CSE in the **[University of Massachusetts, Amherst (UMass Amherst)](https://www.cics.umass.edu/)**. I completed my Bachelor of Science in Computer Science and Engineering (CSE) at **[Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/)**. Prior to beginning my doctoral studies, I served as a full-time lecturer in the Department of CSE at **Presidency University, Bangladesh**. Before that, I held the same position in the Department of CSE at the **Canadian University of Bangladesh**.
   
-- 🔍 Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
+Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
   
 ---
 
