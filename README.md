@@ -37,7 +37,7 @@ Check out my [personal website](https://ayeshathoi.github.io) to know  about me 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshathoi&theme=dark&background=000000)
 
 <a href="https://clustrmaps.com/site/1c8nk" title="Visit tracker">
-  <img src="https://clustrmaps.com/map_v2.png?d=3m6mM179MiMJYFcMzjK_UU0Hf2efhTYkU79a1oeCVDs&cl=080808" />
+  <img src="https://clustrmaps.com/map_v2.png?d=3m6mM179MiMJYFcMzjK_UU0Hf2efhTYkU79a1oeCVDs&cl=000000" />
 </a>
 
 
