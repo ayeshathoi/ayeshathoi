@@ -33,7 +33,7 @@ Check out my [personal website](https://ayeshathoi.github.io) to know  about me 
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayeshathoi&theme=dark&background=000000) <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayeshathoi&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayeshathoi&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshathoi&theme=dark&background=000000)
 
 <a href="https://clustrmaps.com/site/1c8nk" title="Visit tracker" style="display:none;">
