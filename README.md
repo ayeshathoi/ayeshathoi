@@ -1,8 +1,12 @@
 ### :woman_technologist: About Me :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshathoi&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshathoi"/> </p>
 
-I am Ayesha, a first-year Ph.D. student at the department of CSE in the **[University of Massachusetts, Amherst (UMass Amherst)](https://www.cics.umass.edu/)**. I completed my Bachelor of Science in Computer Science and Engineering (CSE) at **[Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/)**. Prior to beginning my doctoral studies, I served as a full-time lecturer in the Department of CSE at **Presidency University, Bangladesh**. Before that, I held the same position in the Department of CSE at the **Canadian University of Bangladesh**.
-  
+I am Ayesha, a security Ph.D. student in Computer Science at the **[University of Massachusetts, Amherst (UMass Amherst)](https://www.cics.umass.edu/)**. I joined UMass Amherst in Fall 2025, where I am fortunate to be advised by **Dr. Pubali Datta**.
+
+My research interest includes systems security, usable security and Large Language Models. I am interested in building secure and trustworthy systems that scale to real-world deployments. In particular, I explore how to identify and mitigate security and privacy challenges in large-scale systems, develop scalable techniques to address them, and design user-centered security mechanisms that help people make safer and more informed decisions when interacting with online platforms.
+
+Before joining UMass Amherst, I completed my Bachelor of Science in Computer Science and Engineering at **[Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/)** in July 2024. Prior to beginning my doctoral studies, I served as a full-time lecturer in the Department of CSE at Presidency University, Bangladesh. Before that, I held the same position in the Department of CSE at the Canadian University of Bangladesh. 
+
 Check out my [personal website](https://ayeshathoi.github.io) to know  about me in details.
   
 ---
