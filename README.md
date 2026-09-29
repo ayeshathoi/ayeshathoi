@@ -3,7 +3,7 @@
 
 I am Ayesha, a security Ph.D. student in Computer Science at the **[University of Massachusetts, Amherst (UMass Amherst)](https://www.cics.umass.edu/)**. I joined UMass Amherst in Fall 2025, where I am fortunate to be advised by **Dr. Pubali Datta**.
 
-My research interests include systems security, usable security and Large Language Models. I am interested in building secure and trustworthy systems that scale to real-world deployments. In particular, I explore how to identify and mitigate security and privacy challenges in large-scale systems, develop scalable techniques to address them, and design user-centered security mechanisms that help people make safer and more informed decisions when interacting with online platforms.
+My research interests include distributed systems, agentic AI, and usable security and privacy. My work focuses on understanding and addressing security and privacy challenges in software systems and online platforms. I pursue two complementary directions: (1) developing scalable and robust methods for securing large-scale systems, including AI-assisted approaches for analyzing and enforcing security policies, and (2) understanding human-centered security and privacy challenges and developing user-centered mechanisms that support safer decision-making on online platforms.
 
 Before joining UMass Amherst, I completed my Bachelor of Science in Computer Science and Engineering at **[Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/)** in July 2024. Prior to beginning my doctoral studies, I served as a full-time lecturer in the Department of CSE at Presidency University, Bangladesh. Before that, I held the same position in the Department of CSE at the Canadian University of Bangladesh. 
 
